@@ -99,3 +99,6 @@
    # kubectl expose deployment simple-devops-project --port=8080 --type=LoadBalancer
    kubectl get services -o wide
    ```
+   
+## For Reference Kubernetes Documentation
+https://kubernetes.io/docs/setup/production-environment/tools/kops/
